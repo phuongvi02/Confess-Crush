@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Thank kiu anh <33333333',
     mess: 'Anh biết mà 🥰. Yêu em 😘😘',
-    messDesc: 'Chúc mừng ngày 8/3 .',
+    messDesc: 'Chúc mừng ngày 8/3 ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: '"https://www.nhaccuatui.com/mh/auto/B6rEC4ZEO7oD' 
+    messLink: 'https://www.nhaccuatui.com/mh/auto/B6rEC4ZEO7oD' 
 }
