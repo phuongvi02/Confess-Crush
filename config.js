@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tớ Thích Cậu",
-    introTitle: 'Người Bí Ẩn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Mừng ngày 8/3 ",
+    introTitle: 'Phượng Vĩ',
+    introDesc: `Mẹ ơi! Mẹ là món quà quý giá nhất mà ông trời đã ban cho con. Con cầu mong mẹ sẽ luôn được mạnh khỏe để mãi ở bên chúng con. Con yêu mẹ. `,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu cậu <33',
-    btnNo: 'Tớ có người khác rồi :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'sau khi con biết được đến  🥰',
+    desc: 'Công nghệ thông tin  ',
+    btnYes: 'đừng ấn  <33',
+    btnNo: 'ấn vào đây mẹ  :3',
+    question: 'Hãy điền câu trả lời của mẹ  <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'Thank kiu con <33333333',
+    mess: 'Con biết mà 🥰. Yêu mẹ 😘😘',
+    messDesc: 'Chúc mừng ngày 8/3 .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.nhaccuatui.com/mh/auto/K50N4xtWe5y4' 
+    messLink: 'https://www.nhaccuatui.com/mh/auto/yr0xFBaprVYY' 
 }
